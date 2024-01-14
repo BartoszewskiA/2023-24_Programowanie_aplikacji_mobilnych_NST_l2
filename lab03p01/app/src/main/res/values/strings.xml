@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab03p01</string>
+    <string-array name="opisy">
+        <item>Jeden wilk</item>
+        <item>Dwa wilki</item>
+        <item>trzy wilki</item>
+        <item>Dużo wilków</item>
+    </string-array>
+</resources>
